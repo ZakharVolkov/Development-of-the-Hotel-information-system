@@ -1,0 +1,1 @@
+create database mydb2; use mydb2;
